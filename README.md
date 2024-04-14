@@ -1,35 +1,37 @@
 # My Favorite Games
-A list of my favorite games
 
+A list of my favorite games. Links go into further detail.
 
 ## S Tier
 
-1. Final Fantasy XIV
-1. The Elder Scrolls IV: Skyrim
-1. Kingdom Come Deliverance
+1. [Final Fantasy XIV](games/ffxiv.md)
 1. The Elder Scrolls III: Morrowind
-1. Grand Theft Auto Vice City
-1. Red Dead Redemption (Masterpiece)
+1. The Elder Scrolls IV: Skyrim
 1. Red Dead Redemption II (Masterpiece)
-1. Roller Coaster Tycoon 2
+1. Baldur's Gate 3
+1. The Witcher 3 (Masterpiece)
 1. Mass Effect 2 (Masterpiece)
+1. [Kingdom Come Deliverance](games/kingdom_come_deliverance.md)
+1. [Red Dead Redemption](games/red_dead_redemption.md) (Masterpiece)
+1. Fallout 3
+1. Grand Theft Auto Vice City
+1. Roller Coaster Tycoon 2
 1. Age of Empires 2
 1. Command & Conquer Red Alert 2 + Yuri's Revenge
 1. Assassin's Creed II (Masterpiece)
-1. Halo Combat Evolved
 1. Grand Theft Auto San Andreas
-1. Fallout 3
+1. Halo Combat Evolved
 1. The Sims
-1. The Witcher 3
 1. Grand Theft Auto IV
 1. Grand Theft Auto V
 1. The Elder Scrolls IV: Oblivion
+1. Minecraft
 1. Mount & Blade
 1. Mount & Blade: Warband
 1. Pokemon Yellow Version
-1. Minecraft
 
 ## A Tier
+
 1. Battlefield 1942
 1. Battlefield 2
 1. Battlefield Bad Company
@@ -39,7 +41,7 @@ A list of my favorite games
 1. Rainbow 6 Vegas 2
 1. Boarderlands
 1. Saint's Row (original)
-1. Saint's Row 2 
+1. Saint's Row 2
 1. Freedom Fighters
 1. The Sims 3
 1. Sim City 4
@@ -69,21 +71,25 @@ A list of my favorite games
 1. Supreme Commander
 1. Grand Theft Auto III
 1. Lego Island
+1. Mafia
+1. N+
 
 ## B Tier
-1. Ampped
+
+1. Assassin's Creed Revelations
+1. Saint's Row the Third
+1. Assassin's Creed III
 1. Jet Set Radio Future
 1. Just Cause 2
 1. Crysis
+1. Act of War: Direct Action
+1. Mirror's Edge
 1. Far Cry 3
 1. Green Hell
-1. Mirror's Edge
-1. Act of War: Direct Action
-1. Assassin's Creed Revelations
-1. Assassin's Creed III
-2. Saint's Row the Third
+1. Amped: Freestyle Snowboarding
 
 ## C Tier
+
 1. Cyberpunk 2077
 1. Starfield
 1. Assassin's Creed
@@ -91,4 +97,5 @@ A list of my favorite games
 1. Joint Operations Typhoon Rising
 
 ## D Tier (Still passing but..)
-1. True Crime
+
+1. True Crime: Streets of LA
