@@ -9,3 +9,7 @@ I remember being in awe at the graphics, which still hold up surprisingly well. 
 Another small but insane feature was too match speed with the people you are following. It's one of those things that I can't believe other games do. It's so infuriating following an NPC in a game and being slightly faster or slower than them. Absolutely insane that other games do not do this even to this day.
 
 The ending of the game was so mindblowing at the time. One thing that really impressed me was John didn't have to play out as a GTA style criminal during gameplay. Yes, he is a criminal but I don't remember being chased by the law during my first play through of the game, if you don't count the Mexican civil war that was going on. The singleplayer was a masterpiece and the multiplayer was amazing too. I remember spending so many hours with friends doing gang hideouts and having shootouts in Blackwater.
+
+___
+
+[Back to Main Page](../README.md)

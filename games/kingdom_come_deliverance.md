@@ -21,3 +21,7 @@ There are treasure chests and items that feel like chase items in the game. Thin
 Something I have missed since The Elder Scrolls III: Morrowind was the ability to layer armor on clothing. This game takes it to a whole new level and is realistic about how you would want to wear armor. In general you have a clothing layer or padding, a chainmail layer, and plate armor on top of that. It's not perfect but graphically the game tries to make everything look like it is working right. I just love seeing this in a game again. It's such a hard thing to pull off and the game does it visually well enough.
 
 The map is insanely good. There are so many hidden details and interesting things to come across even in the middle of nowhere. So many areas feel unique and hand crafted. I remember walking on the road near Talmberg's castle realizing that they have drainage systems for water across the road and further up the road from there were paths where the water crossed to road damaging it. It's such a beautiful world.
+
+___
+
+[Back to Main Page](../README.md)
