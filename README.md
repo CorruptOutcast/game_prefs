@@ -8,7 +8,7 @@ A list of my favorite games. Links go into further detail.
 1. The Elder Scrolls III: Morrowind
 1. The Elder Scrolls IV: Skyrim
 1. Red Dead Redemption II (Masterpiece)
-1. Baldur's Gate 3
+1. Baldur's Gate 3 (Masterpiece)
 1. The Witcher 3 (Masterpiece)
 1. Mass Effect 2 (Masterpiece)
 1. [Kingdom Come Deliverance](games/kingdom_come_deliverance.md)
@@ -32,47 +32,47 @@ A list of my favorite games. Links go into further detail.
 
 ## A Tier
 
+1. The Witcher
+1. Elder Scrolls Online
 1. Battlefield 1942
+1. Final Fantasy XVI
 1. Battlefield 2
+1. Mercenaries
+1. Fallout New Vegas
 1. Battlefield Bad Company
 1. Battlefield Bad Company 2  
-1. Elder Scrolls Online
-1. Mercinaries
 1. Rainbow 6 Vegas 2
-1. Boarderlands
 1. Saint's Row (original)
 1. Saint's Row 2
-1. Freedom Fighters
-1. The Sims 3
-1. Sim City 4
-1. Fable II
-1. The Witcher
-1. Subnautica
-1. Raft
-1. Assassin's Creed IV: Black Flag
-1. Assassin's Creed Brotherhood
-1. Fallout New Vegas
-1. Factorio
 1. No Man's Sky
 1. Path of Exile
-1. Portal
+1. The Sims 3
+1. Subnautica
+1. Raft
+1. Boarderlands
+1. Freedom Fighters
+1. Sim City 4
+1. Assassin's Creed IV: Black Flag
+1. Assassin's Creed Brotherhood
+1. Factorio
+1. Fallout
 1. Sid Meier's Civilization V
 1. Sid Meier's Civilization VI
 1. Crusader Kings III
 1. XCOM 2
-1. Fallout
-1. Final Fantasy XVI
-1. 007 Goldeneye NES
-1. Cities Skylines
 1. Assassin's Creed Origins
-1. Halo 2
+1. Cities Skylines
+1. Fable II
+1. Supreme Commander
 1. Halo 3
 1. Halo Reach
-1. Supreme Commander
-1. Grand Theft Auto III
+1. Halo 2
 1. Lego Island
-1. Mafia
+1. Grand Theft Auto III
+1. Portal
 1. N+
+1. Mafia
+1. 007 Goldeneye NES
 
 ## B Tier
 
